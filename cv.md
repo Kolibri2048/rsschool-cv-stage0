@@ -18,7 +18,6 @@ Purpose: will learn FrontEnd;
 * Programming languages
 >> C#
 >> HTML5/CSS3
->> Python
 >> Java
 * Database
 >> MySQL
